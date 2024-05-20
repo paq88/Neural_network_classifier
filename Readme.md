@@ -3,9 +3,9 @@ Different approaches for neural network multiclass classification based on fish 
 [Project Description](https://theta.edu.pl/grants/common_carp/)
 
 to install required packages you can run 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 Datasets 
 - Bacteria familly abbduance
